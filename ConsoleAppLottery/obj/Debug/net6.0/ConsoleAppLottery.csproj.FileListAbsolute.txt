@@ -1,0 +1,15 @@
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\bin\Debug\net6.0\ConsoleAppLottery.exe
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\bin\Debug\net6.0\ConsoleAppLottery.deps.json
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\bin\Debug\net6.0\ConsoleAppLottery.runtimeconfig.json
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\bin\Debug\net6.0\ConsoleAppLottery.dll
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\bin\Debug\net6.0\ConsoleAppLottery.pdb
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.csproj.AssemblyReference.cache
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.AssemblyInfoInputs.cache
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.AssemblyInfo.cs
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.csproj.CoreCompileInputs.cache
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.dll
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\refint\ConsoleAppLottery.dll
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.pdb
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ConsoleAppLottery.genruntimeconfig.cache
+C:\Users\BERK\Desktop\c#\ConsoleAppLottery\ConsoleAppLottery\obj\Debug\net6.0\ref\ConsoleAppLottery.dll
